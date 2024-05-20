@@ -6,4 +6,5 @@ challenges within the agriculture and food processing sectors. By harnessing the
 effectiveness, practicality, and scalability of TinyML, our implementation offers a solution that is both 
 efficient and scalable, with a unique focus on precision color detection.
 
-The full report for the above project can be found here [dstproject1.pdf](https://github.com/Pravesh0101/TinyMLColorDetection/files/15377675/dstproject1.pdf)
+
+The full report for the above project can be found here [tinyMLColorDetetctionReport.pdf](https://github.com/Pravesh0101/TinyMLColorDetection/files/15377700/tinyMLColorDetetctionReport.pdf)
